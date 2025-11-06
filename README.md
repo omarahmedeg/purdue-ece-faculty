@@ -1,6 +1,7 @@
 # Purdue ECE Faculty Directory
 
 A web application for searching Purdue ECE faculty members by name or research area.
+Live Demo: https://purdue-ece-faculty-frontend.vercel.app
 
 ## Features
 
